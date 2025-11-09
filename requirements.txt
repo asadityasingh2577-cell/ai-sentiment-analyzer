@@ -1,0 +1,6 @@
+flask==2.3.6
+transformers==5.3.3
+torch==2.1.0
+pymongo[srv]==4.6.1
+python-dotenv==1.0.0
+pandas==2.1.1
